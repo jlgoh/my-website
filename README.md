@@ -4,4 +4,4 @@ This is a test website
 
 Updates made on master on GitHub before Rebase
 
-Conflict change locally
+This is just a README file
